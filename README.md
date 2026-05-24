@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heartbeat-in-rhythm/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Heartbeat In Rhythm](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heartbeat-in-rhythm/) |
+| **Get License** | [Obtain a Music License for Heartbeat In Rhythm](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heartbeat-in-rhythm/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `d05d4ea6f474accf4eaaaf5f71b49d55ddbdc79b16fddeacd23079562d47f0df` |
 | **Timestamp** | May 25, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
