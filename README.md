@@ -15,7 +15,7 @@
 | **Written On** | May 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/heartbeat-in-rhythm/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Heartbeat In Rhythm](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heartbeat-in-rhythm/) |
+| **Get License** | [Request Licensing for Heartbeat In Rhythm](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/heartbeat-in-rhythm/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> There's a rhythm in the shadows where the neon meets the dark
+> Got a whiskey on the table and a fire in my heart
+> Every time you look my way, the whole world fades to black
+> I'm leanin' in real close to you, and I ain't holdin' back
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
